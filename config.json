@@ -1,0 +1,7 @@
+{
+  "token": "", // Bot Token
+  "prefix": "!", // Which cmd should the bot go with?
+  "valid_channels": [
+    1162450732360933578
+  ]
+}
